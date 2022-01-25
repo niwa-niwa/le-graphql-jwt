@@ -1,4 +1,4 @@
-const getUserId = "./lib/getUserId";
+import { getUserId } from "../lib/getUserId"
 
 const User = {
   posts(
